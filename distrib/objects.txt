@@ -1,0 +1,4 @@
+Primary Weapon
+Secondary Weapon
+Shield
+Emergency Rune

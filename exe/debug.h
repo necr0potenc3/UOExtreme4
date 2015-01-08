@@ -1,0 +1,2 @@
+
+DWORD threadMonitorDebugEvents(char* pszCmdLine);

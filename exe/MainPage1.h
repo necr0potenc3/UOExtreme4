@@ -1,0 +1,1 @@
+BOOL CALLBACK MainPage1_DlgProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam);

@@ -1,0 +1,90 @@
+Equip Weapon
+F4
+0,0,0
+1
+Primary Weapon
+0
+Shield
+
+Unequip Hands
+F3
+0,0,0
+2
+3
+
+Emergency Recall
+End
+0,0,0
+2
+3
+9
+32
+10
+4
+Emergency Rune
+
+Last Target
+F11
+0,0,0
+5
+
+Target Self
+F8
+0,0,0
+6
+
+Heal Self
+F5
+0,0,0
+2
+3
+9
+29
+10
+6
+
+Reactive Armour Self
+F6
+0,0,0
+2
+3
+9
+7
+10
+6
+
+Reflection
+F7
+0,0,0
+3
+2
+9
+36
+0
+F1
+0
+8
+
+Count Reagents
+F1
+0,0,0
+8
+
+Count arrows and bolts
+F2
+0,0,0
+7
+
+Open Bank Box
+Home
+0,0,0
+11
+
+Ebolt
+Num *
+0,0,0
+9
+42
+10
+5
+

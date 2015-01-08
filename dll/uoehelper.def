@@ -1,0 +1,2 @@
+SEGMENTS
+	.shared	 READ WRITE SHARED

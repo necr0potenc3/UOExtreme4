@@ -1,0 +1,9 @@
+* if after selecting a character, uo jumps back to "verifying account" uo will have to be restarted for it to work (should be fixed)
+
+* characters with the same name share object file on different servers
+
+* sometimes running a macro will cause uo to crash (should be fixed)
+
+* macros that wait for a certain action may run forever if that action never occurs (should be fixed)
+
+* running more than one macro at once may produce strange results
